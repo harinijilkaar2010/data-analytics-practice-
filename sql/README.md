@@ -14,3 +14,6 @@ Customers with **no marketing touchpoints** show a **~50% churn rate**, while cu
 **Business Implication:**  
 Even minimal marketing engagement can substantially reduce churn.  
 This insight supports prioritizing outreach campaigns for customers with zero engagement to improve retention.
+
+##  Tableau Dashboard
+[View Interactive Dashboard](https://public.tableau.com/app/profile/harini.jilkaar7270/viz/CustomerChurnMarketingEngagement/Dashboard1?publish=yes)
